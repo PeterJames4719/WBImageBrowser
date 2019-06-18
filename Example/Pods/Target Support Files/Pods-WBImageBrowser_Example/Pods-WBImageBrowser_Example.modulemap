@@ -1,0 +1,6 @@
+framework module Pods_WBImageBrowser_Example {
+  umbrella header "Pods-WBImageBrowser_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
