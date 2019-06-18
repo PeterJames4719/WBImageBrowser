@@ -7,7 +7,7 @@
 //
 
 #import "WBImageZoomScrollView.h"
-#import <UIImageView+WebCache.h>
+#import "UIImageView+WebCache.h"
 
 @implementation WBImageZoomScrollView
 {
