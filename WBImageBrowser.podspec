@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WBImageBrowser'
-  s.version          = '1.0.2'
+  s.version          = '1.0.3'
   s.summary          = 'A image browser tool.'
 
 # This description is used to generate tags and improve search results.
@@ -38,5 +38,5 @@ A image browser tool.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-   s.dependency 'SDWebImage', '~>4.2.3'
+   s.dependency 'SDWebImage'
 end
